@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6vKmHXHGA/N7cW8WSu7MNoRvn61k+WZDIKrZjwxc4Ig=",
+  "Source": "AliceSkill.Api",
+  "BasePath": "_content/AliceSkill.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

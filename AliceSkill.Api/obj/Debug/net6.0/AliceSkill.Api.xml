@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AliceSkill.Api</name>
+    </assembly>
+    <members>
+        <member name="M:AliceSkill.Api.Controllers.TestController.#ctor(AliceSkill.Api.Services.TestService)">
+            <summary>
+            
+            </summary>
+            <param name="testService"></param>
+        </member>
+    </members>
+</doc>
